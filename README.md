@@ -13,6 +13,10 @@ My name is Siva and I'm a DevOps engineer.
 ![](https://img.shields.io/badge/Tools-DockerSwarm-informational?style=flat&logo=docker&logoColor=white&color=3a2bbc)
 ![](https://img.shields.io/badge/Tools-Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=3a2bbc)
 
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=sivapaul&show_icons=true&theme=radical)
+
+
 <!--
 **sivapaul/sivapaul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
