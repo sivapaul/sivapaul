@@ -1,5 +1,5 @@
 <h1 align='center'>Hello, folks! 👋</h1>
-My name is Siva and I'm a DevOps engineer. You can find me on [![Twitter][1.2]][1]
+My name is Siva and I'm a DevOps engineer.
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
