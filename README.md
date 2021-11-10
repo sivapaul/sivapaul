@@ -2,7 +2,7 @@
 My name is Siva and I'm a DevOps engineer.
 
 ## 🔧 Technologies & Tools
-![](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=amazonaws&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/IoC-Terraform-informational?style=flat&logo=terraform&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Script-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
