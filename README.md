@@ -5,8 +5,6 @@
 <h1> Hello Fellow! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
 <p align='center'>
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=sivapaul.sivapaul)
-
 </p>
 <div size='20px'> Hi! My name is Siva, I'm a Devops engineer. Thank You for taking the time to view my GitHub Profile :smile: 
 </div>
