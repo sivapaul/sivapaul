@@ -36,7 +36,7 @@
 
 - 💬 Talk to me about Devops, AWS, Ansible, Containers
 
-<h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
+<h2> Connect with me <img src='https://github.com/sivapaul/sivapaul/blob/4bf26a7557354342e639bf1060f1184a5eae1f4c/handshake.gif' width="100px"> </h2>
 <a href = 'https://www.linkedin.com/in/sivakrishnakumar-paulraj-3b705444'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
 <a href = 'https://www.github.com/sivapaul'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a> 
 
