@@ -11,9 +11,21 @@
 <div size='20px'> Hi! My name is Siva, I'm a Devops engineer. Thank You for taking the time to view my GitHub Profile :smile: 
 </div>
 
-<h2> About Me <img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 100px></h2>
+<h2> About Me </h2>
 
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+
+## 🔧 Technologies & Tools
+![](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=amazonaws&logoColor=white&color=3a2bbc)
+![](https://img.shields.io/badge/IoC-Terraform-informational?style=flat&logo=terraform&logoColor=white&color=3a2bbc)
+![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=3a2bbc)
+![](https://img.shields.io/badge/Script-Python-informational?style=flat&logo=python&logoColor=white&color=3a2bbc)
+![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=3a2bbc)
+![](https://img.shields.io/badge/Tools-Asible-informational?style=flat&logo=ansible&logoColor=white&color=3a2bbc)
+![](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=3a2bbc)
+![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=3a2bbc)
+![](https://img.shields.io/badge/Tools-DockerSwarm-informational?style=flat&logo=docker&logoColor=white&color=3a2bbc)
+![](https://img.shields.io/badge/Tools-Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=3a2bbc)
 
 
 - 🔭 I’m currently working on Github Project
